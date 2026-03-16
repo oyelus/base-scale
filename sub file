@@ -6,3 +6,29 @@ function greet(name = "stranger") {
 }
 
 console.log(greet("Shadow"));
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Cool Project</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      background: #0f0f1a;
+      color: #e0e0ff;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 { color: #ff79c6; }
+  </style>
+</head>
+<body>
+  <h1>Hello from GitHub! 🧙‍♂️</h1>
+  <p>Created by Shadow (💙🧡) on March 2026</p>
+
+  <script>
+    console.log("Page loaded successfully!");
+  </script>
+</body>
+</html>
