@@ -30,4 +30,4 @@ console.log(greet("Shadow"));
   <script>
     console.log("Page loaded successfully!");
   </script>
-</bo
+</b
