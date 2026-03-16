@@ -31,4 +31,4 @@ console.log(greet("Shadow"));
     console.log("Page loaded successfully!");
   </script>
 </body>
-</htm
+</ht
