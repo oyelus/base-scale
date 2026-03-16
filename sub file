@@ -1,0 +1,8 @@
+// index.js
+console.log("Hello, GitHub world! 🌍");
+
+function greet(name = "stranger") {
+  return `Hey ${name}, welcome to the repo! 🚀`;
+}
+
+console.log(greet("Shadow"));
